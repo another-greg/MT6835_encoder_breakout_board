@@ -15,4 +15,8 @@ The thinking being you will need to connect via SPI to configure the encoder no 
 The BOM for this design was optimized around in-stock JLCPCB parts. To order this board, simply make a zip of the "JLCPCB" folder and upload to the JLCPCB order page.
 
 ## Schematic
-[![Schematic](./schematic.png)](./magnetic_encoder_schematic.pdf)
+[![Schematic](./images/schematic.png)](./magnetic_encoder_schematic.pdf)
+
+[![View Front](./images/magnetic_encoder_front.png)](./images/magnetic_encoder_front.png)
+
+[![View Back](./images/magnetic_encoder_back.png)](./images/magnetic_encoder_back.png)
